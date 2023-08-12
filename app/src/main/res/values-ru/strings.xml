@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик Тирамису</string>
+    <string name="add_qs_title">Добавить заголовок QS</string>
+    <string name="settings">Параметры</string>
+
+    <string name="default_value_text" formatted="false">Сохраненное значение: %d%%</string>
+    <string name="save_as_default_value">Сохранить значение ползунка по умолчанию</string>
+
+    <string name="github">Мой профиль GitHub</string>
+    <string name="label_main">Контроль</string>
+    <string name="slider_turns_on_the_flashlight">Ползунок включает фонарик</string>
+    <string name="auto_set_slider_from_default_value">Установите ползунок на сохраненное значение</string>
+    <string name="settings_segment_values">Значения на кнопках сегментов</string>
+    <string name="option_1">1% | 25% | 50% | 100%</string>
+    <string name="option_2">25% | 50% | 75% | 100%</string>
+    <string name="explanation_of_setting_items">Пояснения к элементам настройки</string>
+
+    <string name="supporting_text">1. Ползунок включает фонарик - Автоматическое включение фонарика при изменении значения/положения ползунка. 
+2. Установите ползунок на сохраненное значение - Установите положение ползунка на сохраненное значение после включения фонарика с помощью кнопки.
+3. Включите фонарик при запуске приложения - фонарик автоматически включится при запуске этого приложения.
+4. Выбор значений кнопок сегмента между двумя вариантами:
+    • 1 вариант ( 1% | 25% | 50% | 100%)
+    • 2 вариант (25% | 50% | 75% | 100%)</string>
+    <string name="dialog_options">Варианты значений кнопок сегментов</string>
+    <string name="accept">OK</string>
+    <string name="decline">Копировать текст</string>
+    <string name="copied_to_clipboard">Текст, скопированный в буфер обмена</string>
+    <string name="device_not_support">Устройство не поддерживается</string>
+    <string name="exit_the_application">Выход из приложения</string>
+
+    <string name="tile_title">Фонарик</string>
+    <string name="tile_subtitle_saved_brightness" formatted="false">Сохранено: %d%%</string>
+    <string name="tile_subtitle_application_launched">Приложение запущено</string>
+    <string name="auto_turn_on_flashlight_when_app_starts">Включить фонарик при запуске приложения</string>
+</resources>
